@@ -1,4 +1,3 @@
-/* firebase stuff still LEFT TO DO */
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCRhZ6ZueRmScEZIC7dsWsK7RIWmifd63w",
